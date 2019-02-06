@@ -5,7 +5,7 @@ module.exports = survey => {
     <html>
       <body>
         <div style="text-align: center;">
-          <h3>I'd like your input!</h3>
+          <h3>We'd like your feedback!</h3>
           <p>Please answer the following question:</p>
           <P>${survey.body}</P>
           <div>
